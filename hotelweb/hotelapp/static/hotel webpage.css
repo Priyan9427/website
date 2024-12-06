@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #14191d;
+}
+.logo{
+    height: 250px;
+    width: 500px;
+    display: inline-block;
+}
+.hotellogo{
+    height: 250px;
+    width: 500px;
+}
+.searchbar{
+    display: inline-block;
+    height: 50px;
+    width: 1366px;
+    background-color: #c7d5ce;
+    margin-top: 40px;
+    border-style: solid;
+    border: 2px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+input{
+    width: 340px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-style: solid;
+    border: 2px;
+    border-radius: 5px;
+    padding-left: 5px;
+    background-color: white;
+    color: black;
+
+}
+input,ul,li{
+    display: inline;
+}
+ul,li{
+    background-color: #c7d5ce;
+    font-size: 20px;
+}
+ul{
+    margin-left: 50%;
+}
+li {
+    color: black;
+    cursor: pointer;
+}
+li :hover{
+    color: grey;
+}
+.offer{
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px; 
+    border-style: solid; 
+    display: inline-block; 
+    color: white;
+    width: 95%;
+}
+.cake{
+    width: 90%;
+    height: 400px;
+}
+.box{
+    border-color: black;
+    border-width: 2px; 
+    border-style: solid; 
+    display: inline-block;
+    width: 300px;
+    color: white;
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.boxi{
+    width: 300px;
+    height: 215px;
+}
+.about{
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+}
+a{
+    color: black;
+    background-color: #c7d5ce;
+}
